@@ -5,11 +5,21 @@ app = flask.Flask('enpeufscarbot')
 
 @app.route('/', methods=['GET'])
 def index():
-    return 'API não profissional feita por um aluno de Estatística da Universidade Federal de São Carlos. Interessados em fazer contato favor procurar no twitter @yeszvezda (Matheus Camargo)'
+    a = open('mainpage.txt', 'r')
+    b = a.read()
+    a.close()
+    return b
     
 def main():
     port = int(environ.get('PORT', 5000))
     app.run(host='0.0.0.0', port=port)
+
+@app.route('/docs', methods=['GET'])
+def docs():
+    a = open('docs.txt', 'r')
+    b = a.read()
+    a.close()
+    return b
 
 @app.route('/days/17-7-2021', methods=['GET'])
 def days_0():
