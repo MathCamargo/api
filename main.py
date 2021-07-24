@@ -1,6 +1,15 @@
 import flask
+from os import environ
 
 app = flask.Flask('enpeufscarbot')
+
+@app.route('/', methods=['GET'])
+def index():
+    return 'API do @enpeufscarbot'
+    
+def main():
+    port = int(environ.get('PORT', 5000))
+    app.run(host='0.0.0.0', port=port)
 
 @app.route('/days/17-7-2021', methods=['GET'])
 def days_0():
@@ -1073,4 +1082,6 @@ def days_135():
     'total': 103, 
     'porcentagem': 100
     }
-app.run()
+
+if __name__ == '__main__':
+    main()
