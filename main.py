@@ -5,7 +5,7 @@ app = flask.Flask('enpeufscarbot')
 
 @app.route('/', methods=['GET'])
 def index():
-    return 'API não profissional feita por um aluno de Estatística da Universidade Federal de São Carlos\n Interessados em fazer contato favor procurar no twitter @yeszvezda (Matheus Camargo)'
+    return 'API não profissional feita por um aluno de Estatística da Universidade Federal de São Carlos. Interessados em fazer contato favor procurar no twitter @yeszvezda (Matheus Camargo)'
     
 def main():
     port = int(environ.get('PORT', 5000))
