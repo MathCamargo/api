@@ -1,13 +1,8 @@
 <h2 style="text-align:center"><span style="font-size:20px">Data API - ENPE 2021/1 Universidade Federal de S&atilde;o Carlos</span></h2>
-
 <h2 style="text-align:justify">&nbsp;</h2>
-
 <p style="text-align: justify;">&nbsp; &nbsp; <span style="font-size:18px">Essa API existe com o prop&oacute;sito de auxiliar uma aplica&ccedil;&atilde;o autom&aacute;tica (BOT) presente na plataforma de rede social Twitter. Criado com fins de estudo e hobbie, a aplica&ccedil;&atilde;o n&atilde;o possui v&iacute;nculo oficial algum com qualquer entidade ligada diretamente ou n&atilde;o &agrave; UFSCar. Documenta&ccedil;&atilde;o da API presente em /docs.</span></p>
-
 <p style="text-align: justify;">&nbsp; &nbsp; <span style="font-size:18px">A ENPE 2021/1 API foi criada utilizando a linguagem de programa&ccedil;&atilde;o <a href="https://www.python.org/">Python </a>(v3.8.10), feita com conhecimentos adquiridos de forma auto-didata&nbsp;(Tentativa e erro) ou com aux&iacute;lio de v&iacute;deo-aulas presentes no <a href="https://www.youtube.com/">YouTube</a>.</span></p>
-
 <p style="text-align: justify;">&nbsp;</p>
-
 <p style="text-align: justify;"><span style="font-size:18px">&nbsp; &nbsp; A aplica&ccedil;&atilde;o foi hospedada na <a href="https://www.heroku.com">Heroku</a>, uma plataforma em nuvem como um servi&ccedil;o que suporta v&aacute;rias linguagens de programa&ccedil;&atilde;o, a maior parde delas de forma totalmente gratuita, ideal pra quem est&aacute; iniciando e n&atilde;o quer ainda investir em um servidor dedicado.</span></p>
 
 <p>Sim, essa p&aacute;gina ser&aacute; alterada no futuro.</p>
