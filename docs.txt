@@ -1,0 +1,52 @@
+<p><span style="font-size:36px">Resource URL:</span></p>
+
+<p><span style="font-size:20px">https://apienpe.herokuapp.com/days/(day usin -&nbsp;to separation)</span></p>
+
+<pre>
+<span style="font-size:20px"><span style="font-family:arial,helvetica,sans-serif">Remember to use the smallest date number possible (dd-mm-yy format). Example: 7/23/2021 = 7-23-2021</span></span></pre>
+
+<p><span style="font-size:20px"><strong>Full GET example:</strong>&nbsp;https://apienpe.herokuapp.com/days/23-7-2021</span></p>
+
+<p><span style="font-size:20px"><strong>Full GET exemple returns:</strong>&nbsp;{&quot;daulas&quot;:0,&quot;ferias&quot;:23,&quot;porcentagem&quot;:0.0,&quot;total&quot;:103}</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:36px">Resource Information:</span></p>
+
+<p><span style="font-size:20px">Response formats --------------&gt; <strong>JSON</strong></span></p>
+
+<p><span style="font-size:20px">Requires Authentication?&nbsp;-----&gt; <strong>No</strong></span></p>
+
+<p><span style="font-size:20px">Rated limit?&nbsp;-----------------------&gt; <strong>No</strong></span></p>
+
+<p><span style="font-size:20px">Mothod&nbsp;-----------------------------&gt; <strong>GET only</strong></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:36px">Secundary Pages</span>:</p>
+
+<p><span style="font-size:20px">https://apienpe.herokuapp.com/&nbsp;-----------&gt; <strong>Main page</strong></span></p>
+
+<p><span style="font-size:20px">https://apienpe.herokuapp.com/docs -----&gt; <strong>Docs&nbsp;page&nbsp;</strong></span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:36px">GET Return Parameters:</span></p>
+
+<p><span style="font-size:20px">&#39;daulas&#39; ------------&gt;&nbsp;<strong>Number of days of classes covered to date.</strong> <em>(int)</em></span></p>
+
+<p><span style="font-size:20px">&#39;ferias&#39; --------------&gt;&nbsp;<strong>Number of days of vacation remaining until the present day.</strong> <em>(int)</em></span></p>
+
+<p><span style="font-size:20px">&#39;porcentagem&#39; ----&gt;&nbsp;<strong>Percentage of completion of the semester.</strong> <em>(float)</em></span></p>
+
+<p><span style="font-size:20px">&#39;total&#39; ----------------&gt;<strong>&nbsp;Total days of classes, always return the same number. </strong><em>(int)</em></span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:20px"><em>S&atilde;o Carlos, 24 de Julho de 2021.</em></span></p>
+
+<p>&nbsp;</p>
