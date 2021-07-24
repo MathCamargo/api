@@ -3,7 +3,7 @@
 <p><span style="font-size:20px">https://apienpe.herokuapp.com/days/(day usin -&nbsp;to separation)</span></p>
 
 <pre>
-<span style="font-size:20px"><span style="font-family:arial,helvetica,sans-serif">Remember to use the smallest date number possible (dd-mm-yy format). Example: 7/23/2021 = 7-23-2021</span></span></pre>
+<span style="font-size:20px"><span style="font-family:arial,helvetica,sans-serif">Remember to use the smallest date number possible (dd-mm-yy format). Example: 23/7/2021 = 23-7-2021</span></span></pre>
 
 <p><span style="font-size:20px"><strong>Full GET example:</strong>&nbsp;https://apienpe.herokuapp.com/days/23-7-2021</span></p>
 
