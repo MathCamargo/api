@@ -3,6 +3,7 @@ from os import environ
 
 app = flask.Flask('enpeufscarbot')
 
+
 @app.route('/', methods=['GET'])
 def index():
     a = open('mainpage.txt', 'r')
