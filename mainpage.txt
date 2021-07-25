@@ -1,16 +1,5 @@
-<title>API UFSCar</title>
-
 <div class="u-clearfix u-sheet u-sheet-1">
-<p style="text-align: right;"><a href="http://apienpe.herokuapp.com/docs"><input name="Doc" type="button" value="Documentação" /></a></p>
-
-<hr />
-<p style="text-align:right">&nbsp;</p>
-
-<p>&nbsp;</p>
-
-<div class="u-custom-menu u-nav-container-collapse">
-<div class="u-black u-menu-overlay u-opacity u-opacity-70">&nbsp;</div>
-</div>
+<p style="text-align:right"><a href="http://apienpe.herokuapp.com/docs"><input name="Doc" type="button" value="Documentação" /></a></p>
 </div>
 
 <div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-xl u-sheet-1">
@@ -27,30 +16,6 @@
 
 <p>&nbsp;</p>
 </div>
-
-<div class="u-align-center u-container-style u-list-item u-repeater-item">
-<div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
-<h3 style="text-align:center"><img alt="" height="118" src="https://img.icons8.com/pastel-glyph/2x/person-male--v2.png" style="float:left" width="118" /><span style="font-size:16px"><strong>Criador</strong></span></h3>
-
-<p style="text-align:center">Tanto a API quanto a Aplica&ccedil;&atilde;o do Twitter foram criadas por Matheus&nbsp;Camargo, pondo em pr&aacute;tica o que foi aprendido na faculdade e em v&iacute;deo-aulas!</p>
-
-<p style="text-align:center">&nbsp;</p>
-</div>
-
-<p>&nbsp;</p>
-</div>
-
-<div class="u-align-center u-container-style u-list-item u-repeater-item">
-<div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
-<h3 style="text-align:center">&nbsp;<span style="font-size:16px"><strong>Quem somos?</strong></span></h3>
-
-<p style="text-align:center"><img alt="" height="99" src="https://www.pngkey.com/png/full/13-134566_ask-question-icon-free-question-icon.png" style="float:left" width="103" />Somos discentes da Universidade Federal de S&atilde;o Carlos, atualmente&nbsp;cursando o 3&ordm; per&iacute;odo de Estat&iacute;stica, com previs&atilde;o de forma&ccedil;&atilde;o em 2024.</p>
 </div>
 </div>
 </div>
-</div>
-</div>
-
-<div class="u-clearfix u-sheet u-sheet-1">&nbsp;</div>
-
-<p>&nbsp;</p>
