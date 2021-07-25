@@ -1,3 +1,4 @@
+<title>Docs API</title>
 <p><span style="font-size:36px">Resource URL:</span></p>
 
 <p><span style="font-size:20px">https://apienpe.herokuapp.com/days/(day usin -&nbsp;to separation)</span></p>
