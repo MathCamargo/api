@@ -1,32 +1,56 @@
-<h2 style="text-align:center"><span style="font-size:20px">Data API - ENPE 2021/1 Universidade Federal de S&atilde;o Carlos</span></h2>
-<h2 style="text-align:justify">&nbsp;</h2>
-<p style="text-align: justify;">&nbsp; &nbsp; <span style="font-size:18px">Essa API existe com o prop&oacute;sito de auxiliar uma aplica&ccedil;&atilde;o autom&aacute;tica (BOT) presente na plataforma de rede social Twitter. Criado com fins de estudo e hobbie, a aplica&ccedil;&atilde;o n&atilde;o possui v&iacute;nculo oficial algum com qualquer entidade ligada diretamente ou n&atilde;o &agrave; UFSCar. Documenta&ccedil;&atilde;o da API presente em /docs.</span></p>
-<p style="text-align: justify;">&nbsp; &nbsp; <span style="font-size:18px">A ENPE 2021/1 API foi criada utilizando a linguagem de programa&ccedil;&atilde;o <a href="https://www.python.org/">Python </a>(v3.8.10), feita com conhecimentos adquiridos de forma auto-didata&nbsp;(Tentativa e erro) ou com aux&iacute;lio de v&iacute;deo-aulas presentes no <a href="https://www.youtube.com/">YouTube</a>.</span></p>
-<p style="text-align: justify;">&nbsp;</p>
-<p style="text-align: justify;"><span style="font-size:18px">&nbsp; &nbsp; A aplica&ccedil;&atilde;o foi hospedada na <a href="https://www.heroku.com">Heroku</a>, uma plataforma em nuvem como um servi&ccedil;o que suporta v&aacute;rias linguagens de programa&ccedil;&atilde;o, a maior parde delas de forma totalmente gratuita, ideal pra quem est&aacute; iniciando e n&atilde;o quer ainda investir em um servidor dedicado.</span></p>
+<title>API UFSCar</title>
 
-<p>Sim, essa p&aacute;gina ser&aacute; alterada no futuro.</p>
+<div class="u-clearfix u-sheet u-sheet-1">
+<p style="text-align: right;"><a href="http://apienpe.herokuapp.com/docs"><input name="Doc" type="button" value="Documentação" /></a></p>
 
-<address>&nbsp;</address>
+<hr />
+<p style="text-align:right">&nbsp;</p>
 
-<address>&nbsp;</address>
+<p>&nbsp;</p>
 
-<address>&nbsp;</address>
+<div class="u-custom-menu u-nav-container-collapse">
+<div class="u-black u-menu-overlay u-opacity u-opacity-70">&nbsp;</div>
+</div>
+</div>
 
-<address>&nbsp;</address>
+<div class="u-clearfix u-sheet u-valign-middle-lg u-valign-middle-xl u-sheet-1">
+<div class="u-expanded-width u-list u-list-1">
+<div class="u-repeater u-repeater-1">
+<div class="u-align-center u-container-style u-list-item u-repeater-item">
+<div class="u-container-layout u-similar-container u-valign-top u-container-layout-1">
+<h3 style="text-align:center"><img alt="" height="114" src="https://img.icons8.com/ios/452/cloud.png" style="float:left" width="114" /><span style="font-size:16px"><strong>Hospedagem</strong></span></h3>
 
-<address>&nbsp;</address>
+<h3 style="text-align:center">&nbsp;Tanto esta API quanto a aplica&ccedil;&atilde;o no Twitter est&atilde;o baseadas em Python e&nbsp;hospedadas na <a class="u-active-none u-border-none u-btn u-button-link u-button-style u-hover-none u-none u-text-palette-1-base u-btn-1" href="https://www.heroku.com/" target="_blank">Heroku</a>! De forma completamente gratuita proporcionando&nbsp;cobertura 24/7 para os servi&ccedil;os prestados.</h3>
 
-<address>&nbsp;</address>
+<p>&nbsp;</p>
+</div>
 
-<address>&nbsp;</address>
+<p>&nbsp;</p>
+</div>
 
-<address>&nbsp;</address>
+<div class="u-align-center u-container-style u-list-item u-repeater-item">
+<div class="u-container-layout u-similar-container u-valign-top u-container-layout-2">
+<h3 style="text-align:center"><img alt="" height="118" src="https://img.icons8.com/pastel-glyph/2x/person-male--v2.png" style="float:left" width="118" /><span style="font-size:16px"><strong>Criador</strong></span></h3>
 
-<address>&nbsp;</address>
+<p style="text-align:center">Tanto a API quanto a Aplica&ccedil;&atilde;o do Twitter foram criadas por Matheus&nbsp;Camargo, pondo em pr&aacute;tica o que foi aprendido na faculdade e em v&iacute;deo-aulas!</p>
 
-<address>&nbsp;</address>
+<p style="text-align:center">&nbsp;</p>
+</div>
 
-<address><em>Criado por: Matheus Camargo.&nbsp;</em></address>
+<p>&nbsp;</p>
+</div>
 
-<address>S&atilde;o Carlos, 24 de Julho de 2021.</address>
+<div class="u-align-center u-container-style u-list-item u-repeater-item">
+<div class="u-container-layout u-similar-container u-valign-top u-container-layout-3">
+<h3 style="text-align:center">&nbsp;<span style="font-size:16px"><strong>Quem somos?</strong></span></h3>
+
+<p style="text-align:center"><img alt="" height="99" src="https://www.pngkey.com/png/full/13-134566_ask-question-icon-free-question-icon.png" style="float:left" width="103" />Somos discentes da Universidade Federal de S&atilde;o Carlos, atualmente&nbsp;cursando o 3&ordm; per&iacute;odo de Estat&iacute;stica, com previs&atilde;o de forma&ccedil;&atilde;o em 2024.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+<div class="u-clearfix u-sheet u-sheet-1">&nbsp;</div>
+
+<p>&nbsp;</p>
