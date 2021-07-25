@@ -1,3 +1,4 @@
+<title>API UFSCar</title>
 <div class="u-clearfix u-sheet u-sheet-1">
 <p style="text-align:right"><a href="http://apienpe.herokuapp.com/docs"><input name="Doc" type="button" value="Documentação" /></a></p>
 </div>
