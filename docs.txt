@@ -20,7 +20,7 @@
 
 <p><span style="font-size:20px">Rated limit?&nbsp;-----------------------&gt; <strong>No</strong></span></p>
 
-<p><span style="font-size:20px">Mothod&nbsp;-----------------------------&gt; <strong>GET only</strong></span></p>
+<p><span style="font-size:20px">Method&nbsp;-----------------------------&gt; <strong>GET only</strong></span></p>
 
 <p>&nbsp;</p>
 
