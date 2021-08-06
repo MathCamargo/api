@@ -26,7 +26,7 @@ def docs():
 def days_0():
     return {'ferias': 29, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -34,7 +34,7 @@ def days_0():
 def days_1():
     return {'ferias': 28, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -42,7 +42,7 @@ def days_1():
 def days_2():
     return {'ferias': 27, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -50,7 +50,7 @@ def days_2():
 def days_3():
     return {'ferias': 26, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -58,7 +58,7 @@ def days_3():
 def days_4():
     return {'ferias': 25, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -66,7 +66,7 @@ def days_4():
 def days_5():
     return {'ferias': 24, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -74,7 +74,7 @@ def days_5():
 def days_6():
     return {'ferias': 23, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -82,7 +82,7 @@ def days_6():
 def days_7():
     return {'ferias': 22, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -90,7 +90,7 @@ def days_7():
 def days_8():
     return {'ferias': 21, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -98,7 +98,7 @@ def days_8():
 def days_9():
     return {'ferias': 20, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -106,7 +106,7 @@ def days_9():
 def days_10():
     return {'ferias': 19, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -114,7 +114,7 @@ def days_10():
 def days_11():
     return {'ferias': 18, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -122,7 +122,7 @@ def days_11():
 def days_12():
     return {'ferias': 17, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -130,7 +130,7 @@ def days_12():
 def days_13():
     return {'ferias': 16, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -138,7 +138,7 @@ def days_13():
 def days_14():
     return {'ferias': 15, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -146,7 +146,7 @@ def days_14():
 def days_15():
     return {'ferias': 14, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -154,7 +154,7 @@ def days_15():
 def days_16():
     return {'ferias': 13, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -162,7 +162,7 @@ def days_16():
 def days_17():
     return {'ferias': 12, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -170,7 +170,7 @@ def days_17():
 def days_19():
     return {'ferias': 11, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -178,7 +178,7 @@ def days_19():
 def days_20():
     return {'ferias': 10, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -186,7 +186,7 @@ def days_20():
 def days_21():
     return {'ferias': 9, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -194,7 +194,7 @@ def days_21():
 def days_22():
     return {'ferias': 8, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -202,7 +202,7 @@ def days_22():
 def days_23():
     return {'ferias': 7, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -210,7 +210,7 @@ def days_23():
 def days_24():
     return {'ferias': 6, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -218,7 +218,7 @@ def days_24():
 def days_25():
     return {'ferias': 5, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -226,7 +226,7 @@ def days_25():
 def days_26():
     return {'ferias': 4, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -234,7 +234,7 @@ def days_26():
 def days_27():
     return {'ferias': 3, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -242,7 +242,7 @@ def days_27():
 def days_28():
     return {'ferias': 2, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -250,7 +250,7 @@ def days_28():
 def days_29():
     return {'ferias': 1, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -258,7 +258,7 @@ def days_29():
 def days_30():
     return {'ferias': 0, 
     'daulas': 0, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.000
     }
 
@@ -266,7 +266,7 @@ def days_30():
 def days_31():
     return {'ferias': 0, 
     'daulas': 1, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 0.97
     }
 
@@ -274,7 +274,7 @@ def days_31():
 def days_32():
     return {'ferias': 0, 
     'daulas': 2, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 1.94
     }
 
@@ -282,7 +282,7 @@ def days_32():
 def days_33():
     return {'ferias': 0, 
     'daulas': 3, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 2.91
     }
 
@@ -290,7 +290,7 @@ def days_33():
 def days_34():
     return {'ferias': 0, 
     'daulas': 4, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 3.88
     }
 
@@ -298,7 +298,7 @@ def days_34():
 def days_35():
     return {'ferias': 0, 
     'daulas': 5, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 4.85
     }
 
@@ -306,7 +306,7 @@ def days_35():
 def days_36():
     return {'ferias': 0, 
     'daulas': 6, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 5.83
     }
 
@@ -314,7 +314,7 @@ def days_36():
 def days_37():
     return {'ferias': 0, 
     'daulas': 7, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 6.80
     }
 
@@ -322,7 +322,7 @@ def days_37():
 def days_38():
     return {'ferias': 0, 
     'daulas': 8, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 7.77
     }
 
@@ -330,7 +330,7 @@ def days_38():
 def days_39():
     return {'ferias': 0, 
     'daulas': 9, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 8.74
     }
 
@@ -338,7 +338,7 @@ def days_39():
 def days_40():
     return {'ferias': 0, 
     'daulas': 10, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 9.71
     }
 
@@ -346,7 +346,7 @@ def days_40():
 def days_41():
     return {'ferias': 0, 
     'daulas': 11, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 10.68
     }
 
@@ -354,7 +354,7 @@ def days_41():
 def days_42():
     return {'ferias': 0, 
     'daulas': 12, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 11.65
     }
 
@@ -362,7 +362,7 @@ def days_42():
 def days_43():
     return {'ferias': 0, 
     'daulas': 13, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 12.62
     }
 
@@ -370,7 +370,7 @@ def days_43():
 def days_44():
     return {'ferias': 0, 
     'daulas': 14, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 13.59
     }
 
@@ -378,7 +378,7 @@ def days_44():
 def days_45():
     return {'ferias': 0, 
     'daulas': 15, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 14.56
     }
 
@@ -386,7 +386,7 @@ def days_45():
 def days_46():
     return {'ferias': 0, 
     'daulas': 16, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 15.53
     }
 
@@ -394,7 +394,7 @@ def days_46():
 def days_47():
     return {'ferias': 0, 
     'daulas': 17, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 16.50
     }
 
@@ -402,7 +402,7 @@ def days_47():
 def days_48():
     return {'ferias': 0, 
     'daulas': 18, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 17.48
     }
 
@@ -410,7 +410,7 @@ def days_48():
 def days_49():
     return {'ferias': 0, 
     'daulas': 19, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 18.45
     }
 
@@ -418,7 +418,7 @@ def days_49():
 def days_50():
     return {'ferias': 0, 
     'daulas': 20, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 19.42
     }
 
@@ -426,7 +426,7 @@ def days_50():
 def days_51():
     return {'ferias': 0, 
     'daulas': 21, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 20.39
     }
 
@@ -434,7 +434,7 @@ def days_51():
 def days_52():
     return {'ferias': 0, 
     'daulas': 22, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 21.36
     }
 
@@ -442,7 +442,7 @@ def days_52():
 def days_53():
     return {'ferias': 0, 
     'daulas': 23, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 22.33
     }
 
@@ -450,7 +450,7 @@ def days_53():
 def days_54():
     return {'ferias': 0, 
     'daulas': 24, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 23.30
     }
 
@@ -458,7 +458,7 @@ def days_54():
 def days_55():
     return {'ferias': 0, 
     'daulas': 25, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 24.27
     }
 
@@ -466,7 +466,7 @@ def days_55():
 def days_56():
     return {'ferias': 0, 
     'daulas': 26, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 25.24
     }
 
@@ -474,7 +474,7 @@ def days_56():
 def days_57():
     return {'ferias': 0, 
     'daulas': 27, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 26.21
     }
 
@@ -482,7 +482,7 @@ def days_57():
 def days_58():
     return {'ferias': 0, 
     'daulas': 28, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 27.18
     }
 
@@ -490,7 +490,7 @@ def days_58():
 def days_59():
     return {'ferias': 0, 
     'daulas': 29, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 28.16
     }
 
@@ -498,7 +498,7 @@ def days_59():
 def days_60():
     return {'ferias': 0, 
     'daulas': 30, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 29.13
     }
 
@@ -506,7 +506,7 @@ def days_60():
 def days_61():
     return {'ferias': 0, 
     'daulas': 31, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 30.10
     }
 
@@ -514,7 +514,7 @@ def days_61():
 def days_62():
     return {'ferias': 0, 
     'daulas': 32, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 31.07
     }
 
@@ -522,7 +522,7 @@ def days_62():
 def days_63():
     return {'ferias': 0, 
     'daulas': 33, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 32.04
     }
 
@@ -530,7 +530,7 @@ def days_63():
 def days_64():
     return {'ferias': 0, 
     'daulas': 34, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 33.01
     }
 
@@ -538,7 +538,7 @@ def days_64():
 def days_65():
     return {'ferias': 0, 
     'daulas': 35, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 33.98
     }
 
@@ -546,7 +546,7 @@ def days_65():
 def days_66():
     return {'ferias': 0, 
     'daulas': 36, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 34.95
     }
 
@@ -554,7 +554,7 @@ def days_66():
 def days_67():
     return {'ferias': 0, 
     'daulas': 37, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 35.92
     }
 
@@ -562,7 +562,7 @@ def days_67():
 def days_68():
     return {'ferias': 0, 
     'daulas': 38, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 36.89
     }
 
@@ -570,7 +570,7 @@ def days_68():
 def days_69():
     return {'ferias': 0, 
     'daulas': 39, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 37.86
     }
 
@@ -578,7 +578,7 @@ def days_69():
 def days_70():
     return {'ferias': 0, 
     'daulas': 40, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 38.83
     }
 
@@ -586,7 +586,7 @@ def days_70():
 def days_71():
     return {'ferias': 0, 
     'daulas': 41, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 39.81
     }
 
@@ -594,7 +594,7 @@ def days_71():
 def days_72():
     return {'ferias': 0, 
     'daulas': 42, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 40.78
     }
 
@@ -602,7 +602,7 @@ def days_72():
 def days_73():
     return {'ferias': 0, 
     'daulas': 43, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 41.75
     }
 
@@ -610,7 +610,7 @@ def days_73():
 def days_74():
     return {'ferias': 0, 
     'daulas': 44, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 42.72
     }
 
@@ -618,7 +618,7 @@ def days_74():
 def days_75():
     return {'ferias': 0, 
     'daulas': 45, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 43.69
     }
 
@@ -626,7 +626,7 @@ def days_75():
 def days_76():
     return {'ferias': 0, 
     'daulas': 46, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 44.66
     }
 
@@ -634,7 +634,7 @@ def days_76():
 def days_77():
     return {'ferias': 0, 
     'daulas': 47, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 45.63
     }
 
@@ -642,7 +642,7 @@ def days_77():
 def days_78():
     return {'ferias': 0, 
     'daulas': 48, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 46.60
     }
 
@@ -650,7 +650,7 @@ def days_78():
 def days_79():
     return {'ferias': 0, 
     'daulas': 49, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 47.57
     }
 
@@ -658,7 +658,7 @@ def days_79():
 def days_80():
     return {'ferias': 0, 
     'daulas': 50, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 48.54
     }
 
@@ -666,7 +666,7 @@ def days_80():
 def days_81():
     return {'ferias': 0, 
     'daulas': 51, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 49.51
     }
 
@@ -674,7 +674,7 @@ def days_81():
 def days_82():
     return {'ferias': 0, 
     'daulas': 52, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 50.49
     }
 
@@ -682,7 +682,7 @@ def days_82():
 def days_83():
     return {'ferias': 0, 
     'daulas': 53, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 51.46
     }
 
@@ -690,7 +690,7 @@ def days_83():
 def days_84():
     return {'ferias': 0, 
     'daulas': 54, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 52.43
     }
 
@@ -698,7 +698,7 @@ def days_84():
 def days_85():
     return {'ferias': 0, 
     'daulas': 55, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 53.40
     }
 
@@ -706,7 +706,7 @@ def days_85():
 def days_86():
     return {'ferias': 0, 
     'daulas': 56, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 54.37
     }
 
@@ -714,7 +714,7 @@ def days_86():
 def days_87():
     return {'ferias': 0, 
     'daulas': 57, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 55.34
     }
 
@@ -722,7 +722,7 @@ def days_87():
 def days_88():
     return {'ferias': 0, 
     'daulas': 58, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 56.31
     }
 
@@ -730,7 +730,7 @@ def days_88():
 def days_89():
     return {'ferias': 0, 
     'daulas': 59, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 57.28
     }
 
@@ -738,7 +738,7 @@ def days_89():
 def days_90():
     return {'ferias': 0, 
     'daulas': 60, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 58.25
     }
 
@@ -746,7 +746,7 @@ def days_90():
 def days_91():
     return {'ferias': 0, 
     'daulas': 61, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 59.22
     }
 
@@ -754,7 +754,7 @@ def days_91():
 def days_92():
     return {'ferias': 0, 
     'daulas': 62, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 60.19
     }
 
@@ -762,7 +762,7 @@ def days_92():
 def days_93():
     return {'ferias': 0, 
     'daulas': 63, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 61.17
     }
 
@@ -770,7 +770,7 @@ def days_93():
 def days_94():
     return {'ferias': 0, 
     'daulas': 64, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 62.14
     }
 
@@ -778,7 +778,7 @@ def days_94():
 def days_95():
     return {'ferias': 0, 
     'daulas': 65, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 63.11
     }
 
@@ -786,7 +786,7 @@ def days_95():
 def days_96():
     return {'ferias': 0, 
     'daulas': 66, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 64.08
     }
 
@@ -794,7 +794,7 @@ def days_96():
 def days_97():
     return {'ferias': 0, 
     'daulas': 67, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 65.05
     }
 
@@ -802,7 +802,7 @@ def days_97():
 def days_98():
     return {'ferias': 0, 
     'daulas': 68, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 66.02
     }
 
@@ -810,7 +810,7 @@ def days_98():
 def days_99():
     return {'ferias': 0, 
     'daulas': 69, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 66.99
     }
 
@@ -818,7 +818,7 @@ def days_99():
 def days_101():
     return {'ferias': 0, 
     'daulas': 70, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 67.96
     }
 
@@ -826,7 +826,7 @@ def days_101():
 def days_102():
     return {'ferias': 0, 
     'daulas': 71, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 68.93
     }
 
@@ -834,7 +834,7 @@ def days_102():
 def days_103():
     return {'ferias': 0, 
     'daulas': 72, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 69.90
     }
 
@@ -842,7 +842,7 @@ def days_103():
 def days_104():
     return {'ferias': 0, 
     'daulas': 73, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 70.87
     }
 
@@ -850,7 +850,7 @@ def days_104():
 def days_105():
     return {'ferias': 0, 
     'daulas': 74, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 71.84
     }
 
@@ -858,7 +858,7 @@ def days_105():
 def days_106():
     return {'ferias': 0, 
     'daulas': 75, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 72.82
     }
 
@@ -866,7 +866,7 @@ def days_106():
 def days_107():
     return {'ferias': 0, 
     'daulas': 76, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 73.79
     }
 
@@ -874,7 +874,7 @@ def days_107():
 def days_108():
     return {'ferias': 0, 
     'daulas': 77, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 74.76
     }
 
@@ -882,7 +882,7 @@ def days_108():
 def days_109():
     return {'ferias': 0, 
     'daulas': 78, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 75.73
     }
 
@@ -890,7 +890,7 @@ def days_109():
 def days_110():
     return {'ferias': 0, 
     'daulas': 79, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 76.70
     }
 
@@ -898,7 +898,7 @@ def days_110():
 def days_111():
     return {'ferias': 0, 
     'daulas': 80, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 77.67
     }
 
@@ -906,7 +906,7 @@ def days_111():
 def days_112():
     return {'ferias': 0, 
     'daulas': 81, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 78.64
     }
 
@@ -914,7 +914,7 @@ def days_112():
 def days_113():
     return {'ferias': 0, 
     'daulas': 82, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 79.61
     }
 
@@ -922,7 +922,7 @@ def days_113():
 def days_114():
     return {'ferias': 0, 
     'daulas': 83, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 80.58
     }
 
@@ -930,7 +930,7 @@ def days_114():
 def days_115():
     return {'ferias': 0, 
     'daulas': 84, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 81.55
     }
 
@@ -938,7 +938,7 @@ def days_115():
 def days_116():
     return {'ferias': 0, 
     'daulas': 85, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 82.52
     }
 
@@ -946,7 +946,7 @@ def days_116():
 def days_117():
     return {'ferias': 0, 
     'daulas': 86, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 83.50
     }
 
@@ -954,7 +954,7 @@ def days_117():
 def days_118():
     return {'ferias': 0, 
     'daulas': 87, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 84.47
     }
 
@@ -962,7 +962,7 @@ def days_118():
 def days_119():
     return {'ferias': 0, 
     'daulas': 88, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 85.44
     }
 
@@ -970,7 +970,7 @@ def days_119():
 def days_120():
     return {'ferias': 0, 
     'daulas': 89, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 86.41
     }
 
@@ -978,7 +978,7 @@ def days_120():
 def days_121():
     return {'ferias': 0, 
     'daulas': 90, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 87.38
     }
 
@@ -986,7 +986,7 @@ def days_121():
 def days_122():
     return {'ferias': 0, 
     'daulas': 91, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 88.35
     }
 
@@ -994,7 +994,7 @@ def days_122():
 def days_123():
     return {'ferias': 0, 
     'daulas': 92, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 89.32
     }
 
@@ -1002,7 +1002,7 @@ def days_123():
 def days_124():
     return {'ferias': 0, 
     'daulas': 93, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 90.29
     }
 
@@ -1010,7 +1010,7 @@ def days_124():
 def days_125():
     return {'ferias': 0, 
     'daulas': 94, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 91.26
     }
 
@@ -1018,7 +1018,7 @@ def days_125():
 def days_126():
     return {'ferias': 0, 
     'daulas': 95, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 92.23
     }
 
@@ -1026,7 +1026,7 @@ def days_126():
 def days_127():
     return {'ferias': 0, 
     'daulas': 96, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 93.20
     }
 
@@ -1034,7 +1034,7 @@ def days_127():
 def days_128():
     return {'ferias': 0, 
     'daulas': 97, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 94.17
     }
 
@@ -1042,7 +1042,7 @@ def days_128():
 def days_129():
     return {'ferias': 0, 
     'daulas': 98, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 95.15
     }
 
@@ -1050,7 +1050,7 @@ def days_129():
 def days_130():
     return {'ferias': 0, 
     'daulas': 99, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 96.12
     }
 
@@ -1058,7 +1058,7 @@ def days_130():
 def days_131():
     return {'ferias': 0, 
     'daulas': 100, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 97.09
     }
 
@@ -1066,7 +1066,7 @@ def days_131():
 def days_132():
     return {'ferias': 0, 
     'daulas': 101, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 98.06
     }
 
@@ -1074,7 +1074,7 @@ def days_132():
 def days_133():
     return {'ferias': 0, 
     'daulas': 102, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 99.03
     }
 
@@ -1082,15 +1082,15 @@ def days_133():
 def days_134():
     return {'ferias': 0, 
     'daulas': 103, 
-    'total': 103, 
+    'total': 104, 
     'porcentagem': 99.90
     }
 
 @app.route('/days/27-11-2021', methods=['GET'])
 def days_135():
     return {'ferias': 0, 
-    'daulas': 000, 
-    'total': 103, 
+    'daulas': 104, 
+    'total': 104, 
     'porcentagem': 100
     }
 
