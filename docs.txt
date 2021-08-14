@@ -8,7 +8,7 @@
 
 <p><span style="font-size:20px"><strong>Full GET example:</strong>&nbsp;https://apienpe.herokuapp.com/days/23-7-2021</span></p>
 
-<p><span style="font-size:20px"><strong>Full GET exemple returns:</strong>&nbsp;{&quot;daulas&quot;:0,&quot;ferias&quot;:23,&quot;porcentagem&quot;:0.0,&quot;total&quot;:103}</span></p>
+<p><span style="font-size:20px"><strong>Full GET exemple returns:</strong>&nbsp;{&quot;daulas&quot;:0,&quot;ferias&quot;:23,&quot;porcentagem&quot;:0.0,&quot;total&quot;:104}</span></p>
 
 <p>&nbsp;</p>
 
