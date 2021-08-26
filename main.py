@@ -880,7 +880,7 @@ def days_108():
 
 @app.route('/days/1-11-2021', methods=['GET'])
 def days_109():
-    return {'ferias': 0, 
+    return {'ferias': 6, 
     'daulas': 78, 
     'total': 104, 
     'porcentagem': 75.73
@@ -888,7 +888,7 @@ def days_109():
 
 @app.route('/days/2-11-2021', methods=['GET'])
 def days_110():
-    return {'ferias': 0, 
+    return {'ferias': 5, 
     'daulas': 79, 
     'total': 104, 
     'porcentagem': 76.70
@@ -896,7 +896,7 @@ def days_110():
 
 @app.route('/days/3-11-2021', methods=['GET'])
 def days_111():
-    return {'ferias': 0, 
+    return {'ferias': 4, 
     'daulas': 80, 
     'total': 104, 
     'porcentagem': 77.67
@@ -904,7 +904,7 @@ def days_111():
 
 @app.route('/days/4-11-2021', methods=['GET'])
 def days_112():
-    return {'ferias': 0, 
+    return {'ferias': 3, 
     'daulas': 81, 
     'total': 104, 
     'porcentagem': 78.64
@@ -912,7 +912,7 @@ def days_112():
 
 @app.route('/days/5-11-2021', methods=['GET'])
 def days_113():
-    return {'ferias': 0, 
+    return {'ferias': 2, 
     'daulas': 82, 
     'total': 104, 
     'porcentagem': 79.61
@@ -920,7 +920,7 @@ def days_113():
 
 @app.route('/days/6-11-2021', methods=['GET'])
 def days_114():
-    return {'ferias': 0, 
+    return {'ferias': 1, 
     'daulas': 83, 
     'total': 104, 
     'porcentagem': 80.58
